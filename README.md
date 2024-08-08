@@ -1,2 +1,3 @@
 # PRODIGY_INFOTECH_INTERNSHIP
-Interning at Prodigy Infotech, showcasing skills through 5 tasks. Just a click away to see my work for PRODIGY INFOTECH. MY CIN is PIT/JUL24/20694.
+Interning at Prodigy Infotech, showcasing skills via tasks. Feel free to view my work for PRODIGY INFOTECH. MY CIN is PIT/JUL24/20694.
+Do suggest improvements :)
